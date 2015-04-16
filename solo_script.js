@@ -1,6 +1,6 @@
 // ! ! !
 // Three Bugs
-// 1. In the for loop, the function for calculatesSTI was assigned to the outside array, and needed to be assigned to the specific inner array being called using the variable [i]. line 33
+// 1. In the for loop, the function for calculatesSTI was assigned to the outside array, and needed to be assigned to the specific inner array being called using the variable [i]. line 23 & 33
 // 2. removed unecessary - 1 from line 69. percentages were being calculated in decimal points. 
 // 3. rounded the 2 & 3 indices from newArray in lines 44 & 45
 
